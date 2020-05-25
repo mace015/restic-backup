@@ -1,0 +1,7 @@
+export RESTIC_PASSWORD=""
+export RESTIC_REPOSITORY="RESTIC-REPOSITORY-HERE" # For example: s3:s3.eu-central-1.amazonaws.com/BUCKET-HERE
+
+# AWS S3 settings
+export AWS_ACCESS_KEY_ID=""
+export AWS_SECRET_ACCESS_KEY=""
+export AWS_DEFAULT_REGION="" # For example: eu-central-1
